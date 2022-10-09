@@ -1,4 +1,4 @@
-name: Rugged CI
+name: Rugged CII
 
 on:
   pull_request:
